@@ -108,3 +108,4 @@ SaveData
 * Add a nicer frontend UI (React/Bootstrap)
 * Multi-zone lighting effects
 
+![57c801a9-3ea9-47c6-b9f4-4ded0792a160](https://github.com/user-attachments/assets/06c4df20-4726-45d3-9d1d-09d671efdec0)
